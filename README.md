@@ -1,2 +1,3 @@
 # fw_project
-The goal of this project was to create a dataset containing movie ratings from filmweb and imdb
+
+This is a webscraping project, where I gathered data from filmweb.pl top 500 and top 100 rankings and merged it with data from IMDB.
